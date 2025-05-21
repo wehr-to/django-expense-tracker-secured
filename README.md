@@ -27,6 +27,9 @@ See [`audit-checklist.md`](./audit-checklist.md) for details.
 - Export data to CSV (secure path only)
 - Optional: mock data encryption or obfuscation
 
+## 🤝 Contributions
+Pull requests are welcome! If you’d like to add features, improve security hardening, optimize code, or extend functionality, feel free to open an issue or PR. This is a learning-focused lab project, and collaboration is encouraged.
+
 ## 🚀 Getting Started
 
 ```bash
